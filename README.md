@@ -1,4 +1,4 @@
-# [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8QT94J) Simple RL-LSTM
+# Simple RL-LSTM
 
 ## Overview
 
